@@ -41,4 +41,8 @@ It's important to understand the tools you're using. These guides explain the pu
 Ready to get your hands dirty? These tutorials will walk you through the process.
 
 *   **[How to Fix STRONG Play Integrity](./Tutorials/01-Fix-Strong-Integrity.md)**
-*   **(More tutorials coming soon!)**
+*   **[How to stop apps from detecting root](./Tutorials/02-Hide-Root-Detection.md)**
+
+## Resources
+
+This folder has files you will need throughout the process. If u want to downlaod latest version, open the zip and find somewhere the github repo link. 
