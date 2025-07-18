@@ -1,5 +1,13 @@
 # Android Modding Guides for Beginners
 
+---
+
+> **A Quick Heads-Up:**
+>
+> Everything here is based on my own trial-and-error. While I've done my best to make these guides clear and safe, you are still modifying your phone at a deep level. Please understand that you are proceeding **at your own risk**. I can't be held responsible if things go sideways and you end up with a bricked phone or lost data. Be smart, be careful, and always have a backup!
+
+---
+
 Welcome! This repository is a collection of guides and tutorials aimed at helping beginners navigate the world of Android customization. I learned things the hard way, so I've created these resources to explain how things work and provide clear, step-by-step instructions for common tasks.
 
 ## 📂 Repository Structure
