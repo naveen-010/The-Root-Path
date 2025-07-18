@@ -14,7 +14,7 @@ This guide provides the steps to pass the `MEETS_STRONG_INTEGRITY` check.
 
 1.  **Preparation:**
     *   Go to your ROM settings and disable any built-in Play Integrity spoofing options.
-    *   If using Magisk, open Magisk settings, **disable Zygisk**, and **enforce the DenyList**. Reboot your device. (This is to ensure no conflicts).
+    *   If using Magisk, open Magisk settings, disable Zygisk and enforce DenyList. Reboot your device. (This is to ensure no conflicts).
 
 2.  **Flash Core Modules:**
     *   Open your root manager app (e.g., KernelSU).
